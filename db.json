@@ -1,25 +1,15 @@
+  
 {
-	"user_name": "Hinduja Developers",
-	"call_logs": [
-		{
-			"description": "Service Pitch Call",
-			"timestamp": "Monday, 05-Oct-20 16:17:26 UTC",
-			"summary": "Made a call to client to pitch the services offered by the bank, special focus on Advisory proposition and Portfolio Management"
-		},
-		{
-			"description": "Onboarding Formalities Discussion",
-			"timestamp": "Wednesday, 15-Oct-20 10:19:26 UTC",
-			"summary": "Discussed Bank's client onboarding journey and formalities to be completed. Client looks confident in his future with bank."
-		},
-		{
-			"description": "Investment Oportunities Discussion",
-			"timestamp": "Wednesday, 31-Oct-20 10:19:26 UTC",
-			"summary": "Called reagrding various Investment opportunities present in the future for Client . Discussed various aspects realted to Investment Startegy."
-		},
-		{
-			"description": "Alladdin Demo Call",
-			"timestamp": "Wednesday, 12-Nov-20 10:19:26 UTC",
-			"summary": "Demonstrated Alladin to Client and explained how it is benificial for investment proposition and Portfloio management."
-		}
-	]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
